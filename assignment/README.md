@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project connects core networking concepts by buying a domain, deploying an NGINX web server on an EC2 instance, and making the page load over a custom domain. In plain terms - building the infrastructure a website lives on.
+This project connects core networking concepts through purchasing a domain, deploying an NGINX web server on an EC2 instance, and making the page load over a custom domain. In plain terms - building the infrastructure a website lives on.
 
 ## Overview
 
